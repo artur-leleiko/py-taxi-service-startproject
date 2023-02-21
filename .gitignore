@@ -1,6 +1,6 @@
 .sqlite3
-.idea/
-venv/
+.idea
+venv
 pycache
 checklist.md
 README.md
