@@ -1,8 +1,7 @@
-.github
-/venv/
-__pychache__/
-README.md
-checklist.md
-.idea
 .sqlite3
-.pyc
+.idea
+venv
+__pycache__
+checklist.md
+README.md
+db.sqlite3
